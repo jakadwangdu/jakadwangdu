@@ -1,35 +1,87 @@
-<h1 align="center">Hi 👋, I'm Jakadwangdu</h1>
-<h3 align="center">A passionate Vibe Coder from India</h3>
+<!--
+  JAKADWANGDU — GitHub profile
+  Visual system: terminal × Apple/Linear minimalism
+  Accent: #00FFFB
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakadwangdu&label=Profile%20views&color=0e75b6&style=flat" alt="jakadwangdu" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [LanceBuddy](https://lancebuddy.in)
+# JAKADWANGDU
 
-- 🌱 I’m currently learning **Cyber security**
+**Independent Developer · Product Builder**
 
-- 👯 I’m looking to collaborate on [LanceBuddy](https://lancebuddy.in)
+Building useful software. Exploring AI and automation. Learning by shipping.
 
-- 👨‍💻 All of my projects are available at [jakadwangdu.github.io/Protfolio](jakadwangdu.github.io/Protfolio)
+[Portfolio](https://github.com/jakadwangdu/Portfolio) · [LanceBuddy](https://lancebuddy.in) · [GitHub](https://github.com/jakadwangdu)
 
-- 💬 Ask me about **Vibe Coder**
+</div>
 
-- 📫 How to reach me **Portfolio / jakadwangdu@outlook.com**
+---
 
-- 📄 Know about my experiences [Self experience Worked on personal projects](Self experience Worked on personal projects)
+### `$ whoami`
 
-- ⚡ Fun fact **I'm a Human**
+I build web and mobile products, experiment with new technologies, and turn ideas into working software.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/jakadwangdu_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakadwangdu_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jakadwangdu_offficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jakadwangdu_offficial" height="30" width="40" /></a>
-</p>
+My current interests:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- Product engineering and practical web development
+- Android apps and developer tools
+- AI-powered workflows and automation
+- Open-source software and learning in public
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakadwangdu&show_icons=true&locale=en&layout=compact" alt="jakadwangdu" /></p>
+> **BUILD. EXPERIMENT. REPEAT.**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakadwangdu&show_icons=true&locale=en" alt="jakadwangdu" /></p>
+### `$ ls ./selected-work`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakadwangdu&" alt="jakadwangdu" /></p>
+A few projects worth exploring.
+
+| Project | What it does |
+|:--|:--|
+| **[LanceBuddy](https://github.com/jakadwangdu/LanceBuddy)** | A tool to help freelancers discover potential clients and businesses. |
+| **[Dhun](https://github.com/jakadwangdu/Dhun)** | A music player and web app built with React. |
+| **[Bloom](https://github.com/jakadwangdu/Bloom)** | An app and browser extension designed to help interrupt endless Instagram Reels scrolling. |
+| **[FlowRec Android](https://github.com/jakadwangdu/FlowRec-APP)** | A native Android screen recorder and video-editing project. |
+| **[Kbrd](https://github.com/jakadwangdu/Kbrd)** | An Android keyboard with voice typing, clipboard tools and an optional AI assistant. |
+| **[Portfolio](https://github.com/jakadwangdu/Portfolio)** | Personal portfolio website. |
+
+### `$ tech --stack`
+
+**Web**  
+`JavaScript` · `React` · `HTML` · `CSS` · `Tailwind CSS`
+
+**Mobile**  
+`Kotlin` · `Android` · `Jetpack Compose`
+
+**Tools & platforms**  
+`Git` · `GitHub Actions` · `Cloudflare`
+
+### `$ git status`
+
+<div align="center">
+
+<a href="https://github.com/jakadwangdu">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jakadwangdu&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FFFB&icon_color=00FFFB&text_color=9CA3AF&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/jakadwangdu">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakadwangdu&layout=compact&hide_border=true&bg_color=00000000&title_color=00FFFB&text_color=9CA3AF&langs_count=6" alt="Most used languages" />
+</a>
+
+</div>
+
+<div align="center">
+
+### Contribution activity
+
+![Contribution snake](https://raw.githubusercontent.com/jakadwangdu/jakadwangdu/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**Curiosity → Experiments → Products**
+
+<sub>Made by Shaurya · SPS</sub>
+
+</div>
